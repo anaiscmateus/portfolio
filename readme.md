@@ -14,9 +14,9 @@ I'm Anais Mateus, a web developer with a passion for creating beautiful and func
 
 Here are some of the projects featured in my portfolio:
 
-- **Pizza D'oro List:** [GitHub Repository](https://github.com/anaiscmateus/pizza-doro) - A website for a pizzeria based in the D.C. area.
+- **Pizza D'oro:** [GitHub Repository](https://github.com/anaiscmateus/pizza-doro) - A website for a pizzeria based in the D.C. area.
 
-- **Level Ground List:** [GitHub Repository](https://github.com/anaiscmateus/level-ground-completed) - A website for a mixed martial arts gym in Massachusetts.
+- **Level Ground:** [GitHub Repository](https://github.com/anaiscmateus/level-ground-completed) - A website for a mixed martial arts gym in Massachusetts.
 
 - **Find Your Horoscope App:** [GitHub Repository](https://github.com/anaiscmateus/horoscope-app) - An application that tells you your zodiac sign.
 
